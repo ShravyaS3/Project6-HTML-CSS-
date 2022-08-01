@@ -1,0 +1,87 @@
+#navbarMonstera {
+    width: 90%;
+    padding: 35px 0;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+  }
+#navMid {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    width: 500px;
+}  
+#navEnd {
+    display: flex;
+    justify-content: space-between;
+width:200px;
+}
+ #midWholePart11 div {
+    width: 450px;
+} 
+ul li {
+    margin-top: 5px;
+}
+
+.midWholePart13Parts {
+    position: relative;
+    top:200px;
+}
+#monstera {
+    font-size: 80px;
+    height: 20px;
+    font-weight: 900%;
+} 
+
+#midWholePart121 { 
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+background-color: rgb(49, 78, 52);
+margin-left: 40px;
+ margin-top: 50px;
+}
+#midWholePart12 {
+    width: 305px;
+    height: 150px;
+    border-radius: 15px 50px 30px 5px;
+
+}
+
+#midWholePart122 img {
+    margin-top: 18px;
+    margin-left: -10px;
+    
+    padding: 10px 20px;
+}
+#midWholePart121 div h1 {
+    color: #fff;
+}
+#midWholePart13 {
+    display: flex;
+   margin-left: 40px;
+   margin-bottom: 100px;
+   width: 700px;
+}
+.midWholePart13Parts {
+    display: flex;
+    margin-top: -200px;
+    width: 300px;
+}
+.text {
+    font-size: 10px;
+    margin-top: -10px;
+    font-weight: lighter;
+}
+.midWholePart13Parts img {
+    margin-right: 10px;
+}
+#imgMain {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 150px;
+    height: 600px;
+    width: 500px;
+}
