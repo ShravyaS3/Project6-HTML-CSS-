@@ -17,4 +17,8 @@
 
 [Live-Link](https://project6-htmlcss.netlify.app/)
 
+![Thumbnail](./thumbnail.png)
+
+
+
 
